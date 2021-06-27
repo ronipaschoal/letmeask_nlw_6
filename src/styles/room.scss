@@ -22,12 +22,26 @@
             button {
                 height: 40px;
             }
+
+            @media only screen and (max-width: 720px) {
+                flex-direction: column;
+                
+                > div {
+                    margin-top: 10px;
+                    flex-direction: column;
+                }
+
+                > button {
+                    margin-top: 10px;
+                }
+            }
         }
     }
 
     main {
         max-width: 800px;
         margin: 0 auto;
+        padding: 0 20px;
 
         .room-title {
             margin: 32px 0 24px;
