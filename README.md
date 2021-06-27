@@ -2,7 +2,7 @@
 
 Projeto:
 
-O projeto foi desenvolvido ao longo de 5 aulas.
+O projeto foi desenvolvido ao longo de 5 aulas ministradas pelo Diego Fernandes da Rocketseat na 6ª nextlevelweek.
 
 Tela inicial:
 ![alt text](https://github.com/ronipaschoal/letmeask_nlw_6/blob/master/src/assets/images/pagina_inicial.jpg?raw=true)
