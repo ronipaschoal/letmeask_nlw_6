@@ -1,21 +1,21 @@
 # letmeask_nlw_6
 
-Projeto:
+Project:
 
-O projeto foi desenvolvido ao longo de 5 aulas ministradas pelo Diego Fernandes da Rocketseat na 6ª nextlevelweek.
+The project was developed over 5 classes taught by Diego Fernandes from Rocketseat in the 6th nextlevelweek.
 
-Tela inicial:
+Home screen:
 ![alt text](https://github.com/ronipaschoal/letmeask_nlw_6/blob/master/src/assets/images/pagina_inicial.jpg?raw=true)
 
-Tela de perguntas:
+Question screen:
 ![alt text](https://github.com/ronipaschoal/letmeask_nlw_6/blob/master/src/assets/images/sala.jpg?raw=true)
 
-Adaptação:
+Adaptation:
 
-Após as aulas, seguindo sugestão do instrutor, adaptei as telas para mobile.
+After classes, following the instructor's suggestions, I adapted the screens for mobile.
 
-Tela inicial:\
+Home screen:\
 ![alt text](https://github.com/ronipaschoal/letmeask_nlw_6/blob/master/src/assets/images/pagina_inicial_mobile.jpg?raw=true)
 
-Tela de perguntas:\
+Question screen:\
 ![alt text](https://github.com/ronipaschoal/letmeask_nlw_6/blob/master/src/assets/images/sala_mobile.jpg?raw=true)
